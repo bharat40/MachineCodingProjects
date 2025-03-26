@@ -1,1 +1,2 @@
-(Live link for progress bar)[https://famous-eclair-0c4ffd.netlify.app/]
+- (Live link for progress bar)[https://famous-eclair-0c4ffd.netlify.app/]
+- (live link for pagination)[https://jovial-monstera-5ec978.netlify.app/]
